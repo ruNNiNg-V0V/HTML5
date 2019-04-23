@@ -1,3 +1,7 @@
+*{
+	text-align: center;
+}
+
 body,
 h1,
 h3,
@@ -11,8 +15,10 @@ p {
 h1 {
 
 	background-color: aqua;
-
-	margin: 20px 20px;
+	width: 500px;
+	margin: 0 auto;
+	border-bottom: 20px double #333;
+	*margin: 20px 20px;
 
 	/*
 	margin : 위 오른쪽 아래 왼쪽;
