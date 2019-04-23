@@ -1,0 +1,21 @@
+span {
+	display: block;
+	float: left;
+	width: 25%;
+}
+
+.First {
+	background-color: chocolate;
+}
+
+.Second {
+	background-color: aqua;
+}
+
+.Third {
+	background-color: blue;
+}
+
+.Fourth {
+	background-color: blueviolet;
+}

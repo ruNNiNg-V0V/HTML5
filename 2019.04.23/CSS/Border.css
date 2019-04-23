@@ -1,0 +1,36 @@
+p {
+
+	padding: 100px;
+
+	/*테두리 선 굵기*/
+	*border-width: 1px;
+	border-top-width: 6px;
+	border-right-width: 20px;
+	border-bottom-width: 30px;
+	border-left-width: 10px;
+
+	/*테두리 선 모양*/
+	*border-style: solid;
+	border-top-style: dashed;
+	border-right-style: dotted;
+	border-bottom-style: groove;
+	border-left-style: double;
+
+	/*테두리 선 색상*/
+	*border-color: black;
+	border-top-color: aqua;
+	border-right-color: blue;
+	border-bottom-color: blueviolet;
+	border-left-color: brown;
+
+	/*테두리 선 코너값*/
+	*border-radius: 20px;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 75px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 100px;
+
+	/*border : 굵기 모양 색상;*/
+	*border: 1px solid black;
+
+}
