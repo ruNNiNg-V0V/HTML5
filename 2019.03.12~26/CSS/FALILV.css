@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+
+ul {
+	margin: auto;
+	list-style-type: none;
+}
+
+body {
+	width: auto;
+	color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 3vw;
+	font-family: 'Gamja Flower';
+}
+
+dd {
+	display: block;
+	margin-right: 40px;
+}
+
+table {
+	border: 1px solid white;
+	margin: auto;
+	width: 800px;
+}
+
+th {
+	border: 1px solid white;
+	width: 30px;
+}
+
+td {
+	border: 1px solid white;
+	width: 30px;
+}
+
+a {
+	color: cadetblue;
+	text-decoration-line: none;
+}
