@@ -55,15 +55,25 @@
 
 .container3{
 	background-color: brown;
+	width: 1000px;
+	margin: 0 auto;
+	padding: 50px;
+	display: table;
 }
 .box7{
 	background-color: cornflowerblue;
+	width: 20%;
+	margin: 0 auto 50px;
 }
 .box8{
 	background-color: goldenrod;
+	width: 45%;
+	float: left;
 }
 .box9{
 	background-color: lawngreen;
+	width: 45%;
+	float: right;
 }
 
 
