@@ -5,6 +5,7 @@
 	max-width: 1200px;
 	margin: 0 auto;
 	display: table;
+	display: none;
 }
 
 .box1 {
@@ -25,3 +26,35 @@
 	width: 40%;
 	float: left;
 }
+
+.container2 {
+	background-color: aqua;
+	width: 1000px;
+	margin: 0 auto;
+	display: table;
+	padding: 30px;
+	display: none;
+}
+
+.box4 {
+	background-color: salmon;
+	float: left;
+	width: 45%;
+}
+
+.box5 {
+	background-color: darkgreen;
+	float: right;
+	width: 50%;
+}
+
+.box6 {
+	background-color: violet;
+	clear: both;
+}
+
+.container3{}
+.box7{}
+.box8{}
+.box9{}
+
