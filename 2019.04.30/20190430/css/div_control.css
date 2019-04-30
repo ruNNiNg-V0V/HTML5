@@ -1,0 +1,25 @@
+.container {
+	background-color: aqua;
+	width: 1000px;
+	margin: 0 auto;
+	display: table;
+}
+
+.box1 {
+	background-color: rebeccapurple;
+	width: 20%;
+	float: left;
+}
+
+.box2 {
+	background-color: yellowgreen;
+	margin: 0 5%;
+	width: 30%;
+	float: left;
+}
+
+.box3 {
+	background-color: brown;
+	width: 40%;
+	float: left;
+}

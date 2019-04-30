@@ -1,0 +1,29 @@
+div {
+	background-color: brown;
+	width: 1000px;
+	margin: 0 auto;
+	color: mediumaquamarine;
+}
+
+h1 {
+	background color: aquamarine;
+	font-size: 48px;
+	font-weight: 900;
+	text-align: center;
+	border-bottom: 8px double #333;
+	padding: 0 0 15px;
+	width: 1000px;
+}
+
+h3 {
+	width: 1000px;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	line-height: 1.5em;
+	width: 1000px;
+}
