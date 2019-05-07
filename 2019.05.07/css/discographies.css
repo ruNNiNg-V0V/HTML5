@@ -1,0 +1,32 @@
+.container {
+	width: 1000px;
+}
+
+h1 {
+	text-align: center;
+}
+
+div p:nth-child(1) {
+	float: left;
+}
+
+div p:nth-child(2) {
+	float: right
+}
+
+table {
+	display: block;
+	margin: 10px 10px;
+}
+
+img {
+	width: 100%;
+}
+
+th {
+	width: 30%;
+}
+
+table > tr > td:nth-child(2) {
+	width: 45%;
+}
