@@ -1,0 +1,127 @@
+/*전체 영역*/
+.wrap {
+	background-color: red;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+/*사이트 머릿말*/
+header {
+	padding: 50px 0 30px;
+
+}
+
+/*사이트 대분류*/
+nav {
+	background-color: orange;
+
+}
+
+nav ul {
+	text-align: center;
+}
+
+nav ul li {
+	background-color: darkorange;
+	display: inline-block;
+}
+
+nav ul li a {
+	display: inline-block;
+	font-size: 18px;
+	font-weight: bold;
+	color: mintcream;
+	line-height: 50px;
+	width: 70px;
+}
+
+nav ul li a:hover {
+	font-size: 22px;
+	line-height: 45px;
+	color: brown;
+}
+
+.web_title {
+	border: 1px solid #ccc;
+	color: #ccc;
+	font-size: 50px;
+	font-weight: bold;
+	width: 300px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.web_title_sub {
+	font-size: 20px;
+	text-align: center;
+	margin: 10px;
+	0 0;
+	font-weight: bold;
+	color: green;
+}
+
+
+/*컨테이너 영역*/
+.container {
+	padding: 30px 10px;
+
+}
+
+.container:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+
+/*서브 카테고리 영역*/
+
+aside {
+	width: 150px;
+	min-height: 500px;
+	float: left;
+	padding: 0 10px;
+}
+
+.sub_tit {
+	color: yellow;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 20px 0 15px;
+}
+
+aside ul {
+	border-top: 1px solid #fff;
+}
+
+aside ul li {}
+
+aside ul li a {
+	display: block;
+	padding: 0 20px;
+	border-bottom: 1px solid #fff;
+	font-size: 18px;
+	line-height: 40px;
+	color: orange;
+}
+
+
+/*컨텐츠 영역*/
+.contents {
+	min-height: 500px;
+	width: 960px;
+	float: right;
+	color: yellow;
+}
+
+footer{
+	padding: 50px 0;
+	text-align: center;
+	color: #333;
+}
+
+
+
+

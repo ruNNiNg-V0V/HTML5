@@ -1,0 +1,16 @@
+.img_box {
+	margin: 20px 140px;
+}
+
+img {
+	width: 50%;
+}
+
+.contents {
+	text-align: center;
+}
+
+p {
+	margin: 10px;
+	display: inline-block;
+}
