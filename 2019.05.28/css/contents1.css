@@ -1,0 +1,25 @@
+.contents h1 {
+	font-size: 32px;
+	line-height: 1.6em;
+}
+
+.contents h2 {
+	font-size: 24px;
+	line-height: 1.6em;
+	color: #666;
+}
+
+.contents h3 {
+	font-size: 20px;
+	line-height: 1.6em;
+	color: #999;
+}
+
+.contents p {
+	font-size: 14px;
+	line-height: 1.6em;
+}
+
+.contents img {
+	margin: 50px 0;
+}
