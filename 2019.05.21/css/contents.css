@@ -8,9 +8,12 @@ img {
 
 .contents {
 	text-align: center;
+	line-height: 1.6em;
 }
 
 p {
 	margin: 10px;
 	display: inline-block;
 }
+
+
