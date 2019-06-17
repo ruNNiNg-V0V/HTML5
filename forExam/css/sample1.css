@@ -1,0 +1,84 @@
+body {
+    background-color: #ccc;
+}
+
+.container {
+    margin: 50px auto 80px auto;
+    width: 700px;
+    background: white;
+
+}
+
+.title {
+    padding: 60px 40px 0px 40px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitle {
+    color: #666666;
+    font-size: 18px;
+    padding: 0px 40px 40px 40px;
+}
+
+.date {
+    color: #999999;
+    font-size: 13px;
+    float: right;
+    padding: 0px 40px 20px 40px;
+
+}
+
+.kartrider {
+    margin: 0px 100px 20px 80px;
+    width: 540px;
+    height: 360px;
+}
+
+.contents{
+    margin: 0px 40px 40px 40px;
+}
+
+.contents p {
+    font-size: 12px;
+    line-height: 2em;
+}
+
+.contents p:nth-child(3)
+{
+    margin: 40px 0px 15px 0px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.contents p:nth-child(4)
+{
+    margin: 40px 0px;
+}
+
+p {
+    text-align: justify;
+}
+
+.example {
+    padding: 0px 0px 80px 0px;
+	overflow: auto;
+	display: block;
+	content: "";
+	clear: both;
+}
+
+.left {
+    margin: 0px 0px 0px 40px;
+    float: left;
+    width: 350px;
+    height: 180px;
+}
+
+.right {
+    margin: 0px 40px 0px 0px;
+    float: right;
+    width: 270px;
+    height: 180px;
+
+}
